@@ -57,26 +57,30 @@ Now, lots of players hold an opinion: NetEase is exceeding its authority, trying
 
 我们为网易的非人行为感到愤怒，同时也对中国Minecraft社区的未来感到担忧。我们如此喜爱Minecraft，就是因为它自由的游戏玩法和开放的社区环境。网易的上述行为，正在将中国的Minecraft社区拉入封闭的深渊，这令我们格外痛心，我们不忍心看到这样一个优秀的社区环境葬送在网易的手下。请允许我在此引用一段BakaXL作者TT702在视频被下架后发表的一段文章作结：
 
-> Minecraft 的成功离不开社区的贡献和创造，作为一款激发用户创造力和想象力的沙盒游戏，Minecraft 社区的开放性、包容性正逐渐成为许多年轻一代开发者接触计算机编程的选择。
-在网易公司代理“中国版我的世界”后直指位于国内的国际版 Minecraft 开发者侵权，令我们对 Minecraft 今后的未来感到担忧，这一个由社区、玩家、开发者和 Mojang Studio 一同打造的沙盒世界的未来，是否将会变得越来越封闭、黑暗且荒凉。 
+> Minecraft 的成功离不开社区的贡献和创造，作为一款激发用户创造力和想象力的沙盒游戏，Minecraft 社区的开放性、包容性正逐渐成为许多年轻一代开发者接触计算机编程的选择。<br/>
+在网易公司代理“中国版我的世界”后直指位于国内的国际版 Minecraft 开发者侵权，令我们对 Minecraft 今后的未来感到担忧，这一个由社区、玩家、开发者和 Mojang Studio 一同打造的沙盒世界的未来，是否将会变得越来越封闭、黑暗且荒凉。 <br/>
 BakaXL 作为一个并不出众的小众国际版 Minecraft 启动器都会遭遇如此对待，在网易公司这般运作下，国内下一个受到伤害的国际版 Minecraft 开发者又会是谁？网易是否能够及时踩下刹车，停止对国际版 Minecraft 社区的伤害？在失去了无数热爱着这款游戏的开发者之后，在国内的 Minecraft 玩家、开发者社区的未来又会走向何方？
 
 We feel furious for NetEase's inhuman actions, and worry for the future of Chinese Minecraft community. Why we like Minecraft so much? Because of its free gameplay and open community environment. NetEase's above actions is dragging Chinese Minecraft community into the limbo of closure. This makes us really distressed, because we can't bear to see such awesome community environment get buried under NetEase's hand. Please let me translate a part of TT702(BakaXL's main developer)'s passage after his video was taken down as the end: 
 
-> The success of Minecraft is inseparable from the contribution and creation of the community. As a sandbox game that inspires player's creativity and imaginations, the openness and inclusivity of Minecraft community is making it become the option for new developers to get familiar with computer programing.
-After NetEase agented Minecraft China Edition, they indicate that Chinese developers for Minecraft International Edition is violating their rights, which makes us worries about the future of Minecraft. Will such a bright future for this sandbox game, contributed by both community, players, developer, and Mojang Studio, become close, dark, and desolate? 
+> The success of Minecraft is inseparable from the contribution and creation of the community. As a sandbox game that inspires player's creativity and imaginations, the openness and inclusivity of Minecraft community is making it become the option for new developers to get familiar with computer programing.<br/>
+After NetEase agented Minecraft China Edition, they indicate that Chinese developers for Minecraft International Edition is violating their rights, which makes us worry about the future of Minecraft. Will such a bright future for this sandbox game, contributed by both community, players, developers, and Mojang Studio, become close, dark, and desolate? <br/>
 As a Minecraft International Edition launcher that is not that famous, even BakaXL has suffered such treatments. Under NetEase's maintainence, which Minecraft International Edition developer will become the next victim? Can NetEase stop its action in time, stop hurting the Minecraft International Edition community? After losing uncountable developers that love this game, where will the future of Chinese Minecraft players and developers' community go? 
 
 ## 我们需要什么？ | What do we Need?
 
 我们需要微软和Mojang的反应，通过来自原有开发者的权力快速制止代理商网易的肆意妄为。依我拙见，行动如下：
+
 1. 立刻撤销网易在中国大陆地区代理Minecraft的权力，收回他关于Minecraft游戏的一切权利。
 2. 后续中国大陆地区的Minecraft游戏由微软公司直接运营。
+
 如果我的提议过激，我也希望微软和Mojang采取任何快速有效的措施尽快制止网易公司的行为。本身网易的运营方案就违背了Minecraft的自由精神，这次它已经伤害到了我们玩家群体的切身权益。我们不能再对它忍气吞声。
 
 We need Microsoft and Mojang's reaction, quickly stop NetEase's reckless behavior through your original developer's right. In my opinion, you can action like: 
+
 1. Revoke NetEase's agent right of Minecraft in China Mainland immediately, and revoke all his right about Minecraft. 
 2. Microsoft can directly maintain Minecraft in China Mainland. 
+
 If my opinion is too aggressive, I desperately hope Microsoft and Mojang can take any fast and effective action to stop NetEase's behavior as soon as possible. The NetEase's operate method itself is breaking Minecraft's free circumstance, and this time it hurts our players' right directly. We can no longer stay silence. 
 
 ## 参考资料 | References
